@@ -1,0 +1,2 @@
+This is the content of object1.txt.
+It can be any text that you want to read asynchronously.

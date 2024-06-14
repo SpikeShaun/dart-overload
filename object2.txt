@@ -1,0 +1,2 @@
+This is the content of object2.txt.
+Another example of text for demonstration.

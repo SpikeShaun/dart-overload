@@ -1,0 +1,2 @@
+This file does not actually exist on disk.
+Its content is just for the purpose of demonstration.
